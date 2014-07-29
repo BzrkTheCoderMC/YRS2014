@@ -1,6 +1,3 @@
 YRS2014 - Project Hikr
 =======
-
-Data gluing component
-
-Main project files
+Hello! This is our project that we have been working on for Young Rewired State!
